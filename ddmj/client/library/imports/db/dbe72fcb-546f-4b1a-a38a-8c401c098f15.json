@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "guangfengxiayu.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "feng01": {
+      "__uuid__": "1ac0776a-ec85-476e-bbdb-6e9eace3e082"
+    },
+    "feng02": {
+      "__uuid__": "8714b659-208c-4b6f-bf7c-69c3ed504017"
+    },
+    "feng03": {
+      "__uuid__": "b44ad3b9-5da6-4f10-89f1-630768646ed8"
+    },
+    "feng04": {
+      "__uuid__": "3dc7b598-874d-468f-9f4d-3013eab17d36"
+    },
+    "feng05": {
+      "__uuid__": "4f77b050-277e-41bc-9793-94a9c10b6bd9"
+    },
+    "feng06": {
+      "__uuid__": "0ce7a298-26b4-428c-bccb-89b95cbbec39"
+    },
+    "feng07": {
+      "__uuid__": "999f2d03-9986-4725-8680-fc16a62646bc"
+    },
+    "feng08": {
+      "__uuid__": "9ce1fd88-86b4-49a4-876d-9da08ddb294f"
+    },
+    "shandian": {
+      "__uuid__": "507f0bef-7034-40f3-8f13-2f3683ea428f"
+    },
+    "yudi": {
+      "__uuid__": "5c55545a-49fb-4919-9fcf-2b8a69b98dbf"
+    },
+    "yun1": {
+      "__uuid__": "c60480ec-5571-4301-a6d0-b7e52258aa6f"
+    },
+    "yun2": {
+      "__uuid__": "17da0da6-7609-48ca-bcfd-3ac332b6d00d"
+    },
+    "yun3": {
+      "__uuid__": "6a8bf6e5-665f-43b3-ada0-8b141c3c25ed"
+    }
+  }
+}

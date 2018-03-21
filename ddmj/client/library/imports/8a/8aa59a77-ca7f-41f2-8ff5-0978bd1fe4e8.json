@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dingque.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dingtiao": {
+      "__uuid__": "b336e47e-89fc-40d9-9048-d4bfa232739c"
+    },
+    "dingtong": {
+      "__uuid__": "3776c26b-553b-419d-b952-a2e0db712436"
+    },
+    "dingwan": {
+      "__uuid__": "1f337ec9-dafc-41c7-9f98-213d943efcb9"
+    },
+    "tiaojiaobiao": {
+      "__uuid__": "70e14a7e-9eac-46a0-9aab-6e6584e120ab"
+    },
+    "tongjiaobiao": {
+      "__uuid__": "5814d418-f75c-49fa-b3ff-910c85c9c9ba"
+    },
+    "wanjiaobiao": {
+      "__uuid__": "d0c01627-4d4d-4e0f-a8cf-872b3965b082"
+    }
+  }
+}

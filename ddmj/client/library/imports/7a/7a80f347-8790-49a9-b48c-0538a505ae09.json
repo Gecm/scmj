@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "history_record",
+    "texture": "74d44adb-7b0a-4799-95a2-1812ba98e8cf",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2016,
+      209
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      2020,
+      214
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "decision_sign_1",
+    "texture": "a8cce54f-961c-49b5-b3e1-4d293547f05b",
+    "atlas": "4201ef1f-4abc-4af0-8e84-e9e776943900",
+    "rect": [
+      658,
+      143,
+      110,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      122
+    ],
+    "rotated": 1
+  }
+}

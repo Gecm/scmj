@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "PopupScene.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "PopupScene1": {
+      "__uuid__": "2d167769-a80b-4b3d-89f1-b150fa64008e"
+    },
+    "PopupScene14": {
+      "__uuid__": "b526316a-0879-4b6e-8b03-63cf91505eff"
+    },
+    "PopupScene15": {
+      "__uuid__": "999350d5-eb8e-4a6e-9ac3-f1690a3ea842"
+    },
+    "PopupScene16": {
+      "__uuid__": "abb55ec9-187f-436e-9a1a-5ba431862e87"
+    },
+    "PopupScene17": {
+      "__uuid__": "9ca3657f-6216-4cb9-bc0b-f6972a05ae86"
+    },
+    "PopupScene18": {
+      "__uuid__": "350940fd-9691-4aaf-8685-7764627333ad"
+    },
+    "PopupScene19": {
+      "__uuid__": "b421470e-abca-4b84-9e4c-eab8b6b7806e"
+    },
+    "PopupScene2": {
+      "__uuid__": "5914f056-b6c1-4bbd-979b-92b5b721c7f4"
+    },
+    "PopupScene20": {
+      "__uuid__": "38744dcf-8d01-40b5-868b-e74014d78dcd"
+    },
+    "PopupScene21": {
+      "__uuid__": "47e441c3-81cc-4916-bf1c-fa13f1359c8f"
+    },
+    "PopupScene22": {
+      "__uuid__": "93c93965-d3d4-4483-a96e-497e1b243dbc"
+    },
+    "PopupScene23": {
+      "__uuid__": "dcfd81f9-c553-44c7-b21a-6e485107dd8c"
+    },
+    "PopupScene3": {
+      "__uuid__": "6fb8913c-4002-42c2-9c10-e9db64c2b2a3"
+    },
+    "PopupScene5": {
+      "__uuid__": "306a0d16-09f5-4c00-9bdb-0dc53c00990c"
+    },
+    "PopupScene6": {
+      "__uuid__": "a8880732-446c-4797-a83e-7b1376458309"
+    },
+    "PopupScene7": {
+      "__uuid__": "8fa76a26-7936-4bc0-af9b-c81d5f39cb0b"
+    },
+    "PopupScene8": {
+      "__uuid__": "bf6861d5-7745-42f4-a6a7-82278bb6d583"
+    }
+  }
+}

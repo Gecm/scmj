@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PopupScene",
+    "texture": "2f2ceb8c-9676-47de-8bdc-aaeec566600c",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      1262,
+      1997
+    ],
+    "offset": [
+      -4,
+      -1.5
+    ],
+    "originalSize": [
+      1274,
+      2004
+    ]
+  }
+}

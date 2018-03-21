@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sichuantouxiang002",
+    "texture": "40781aa3-2fcd-42d4-832e-e000ce60f51a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      97,
+      96
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      98,
+      96
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_zhunbeizhuangt",
+    "texture": "ea2cac6b-362a-4742-87fc-f5fe97f7fb04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      39
+    ]
+  }
+}

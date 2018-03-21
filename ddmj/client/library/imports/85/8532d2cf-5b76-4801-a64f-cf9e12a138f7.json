@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "B_bamboo_1",
+    "texture": "4a171fbc-4d51-48b9-be4a-face1c24b1ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      84
+    ]
+  }
+}

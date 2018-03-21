@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameEnd11",
+    "texture": "511f6292-b652-44ea-9a7f-37e3f501f558",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      126,
+      72
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      135,
+      72
+    ]
+  }
+}

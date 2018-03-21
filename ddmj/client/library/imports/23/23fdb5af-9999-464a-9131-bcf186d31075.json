@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "msg_bubble_left",
+    "texture": "a8cce54f-961c-49b5-b3e1-4d293547f05b",
+    "atlas": "4201ef1f-4abc-4af0-8e84-e9e776943900",
+    "rect": [
+      1565,
+      137,
+      64,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      52
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ffanghuifangj",
+    "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+    "atlas": "79ca1461-bcce-4e92-a148-bbd4884778f1",
+    "rect": [
+      168,
+      960,
+      446,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      115
+    ]
+  }
+}

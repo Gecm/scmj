@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "z_datingtouxiang",
+    "texture": "d4b0d222-3ed9-4e3c-b4ac-e26e001af5d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      85
+    ],
+    "capInsets": [
+      30,
+      30,
+      30,
+      30
+    ]
+  }
+}

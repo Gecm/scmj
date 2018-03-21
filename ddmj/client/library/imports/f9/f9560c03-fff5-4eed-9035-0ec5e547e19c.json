@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_wifi_4",
+    "atlas": "d1ec606d-1a3a-4ebf-a9f1-5391b946cd31",
+    "rect": [
+      46,
+      42,
+      16,
+      14
+    ],
+    "offset": [
+      0,
+      -12
+    ],
+    "originalSize": [
+      48,
+      38
+    ]
+  }
+}

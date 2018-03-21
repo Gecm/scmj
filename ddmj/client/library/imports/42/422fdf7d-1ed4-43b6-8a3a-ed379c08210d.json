@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sichuan_room_fangxiang_002_01",
+    "texture": "8f57596d-cd4a-480b-bd57-611464f493aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      21
+    ]
+  }
+}

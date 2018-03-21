@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "replayFast",
+    "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+    "atlas": "24697d0f-0baa-431b-82e8-d74c1124a91c",
+    "rect": [
+      153,
+      2,
+      53,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      49
+    ],
+    "rotated": 1
+  }
+}

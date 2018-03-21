@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_nobody",
+    "texture": "e8e2ee02-19dc-4e3b-a16f-02c482589aeb",
+    "atlas": "",
+    "rect": [
+      10,
+      5,
+      40,
+      54
+    ],
+    "offset": [
+      -2.5,
+      0.5
+    ],
+    "originalSize": [
+      65,
+      65
+    ]
+  }
+}

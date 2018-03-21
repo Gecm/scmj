@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "recorder",
+    "texture": "77f932ed-5482-451a-8919-2adc5aabd943",
+    "atlas": "",
+    "rect": [
+      24,
+      18,
+      84,
+      142
+    ],
+    "offset": [
+      6,
+      1
+    ],
+    "originalSize": [
+      120,
+      180
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sichuan_room_huatong_002",
+    "texture": "06d0634d-85bc-4c3a-a92f-980420d06dbb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      55
+    ]
+  }
+}

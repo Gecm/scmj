@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sichuan_room_xiaoxi_002",
+    "texture": "f6e00b41-4095-441b-b760-3fac8e8379df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      55
+    ]
+  }
+}

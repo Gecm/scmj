@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wenzi003",
+    "texture": "d63b4a9e-dc2b-4084-8664-8331e0c904a7",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      329,
+      21
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      331,
+      23
+    ]
+  }
+}

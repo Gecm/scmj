@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_emoji",
+    "texture": "75b22bef-022a-48b7-8c28-5a6c6d00016e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      419,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      419,
+      52
+    ]
+  }
+}

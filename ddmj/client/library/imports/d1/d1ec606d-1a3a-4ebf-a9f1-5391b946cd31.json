@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Z_wifi.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Z_wifi_1": {
+      "__uuid__": "a5c2bb3a-45eb-41d7-ac46-f2823c669104"
+    },
+    "Z_wifi_2": {
+      "__uuid__": "9c8dd523-f857-44ba-ba67-77eb5c258e76"
+    },
+    "Z_wifi_3": {
+      "__uuid__": "8b018912-da14-4c07-a104-b7f00b41e9a9"
+    },
+    "Z_wifi_4": {
+      "__uuid__": "f9560c03-fff5-4eed-9035-0ec5e547e19c"
+    }
+  }
+}

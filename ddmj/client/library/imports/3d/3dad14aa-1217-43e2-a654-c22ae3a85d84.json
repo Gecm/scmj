@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "loading.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "jzcycle": {
+      "__uuid__": "33a87e63-83e7-4f98-a40e-96feece06697"
+    },
+    "jzshazi": {
+      "__uuid__": "30220141-dcea-4b2c-82ea-f6932b703abd"
+    }
+  }
+}

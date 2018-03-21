@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "check_mark",
+    "texture": "53dd92a5-1fbd-4640-894d-e0beefe3e5b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      48
+    ]
+  }
+}

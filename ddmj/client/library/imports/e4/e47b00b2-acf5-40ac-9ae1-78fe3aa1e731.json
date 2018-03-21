@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guangfengxiayu",
+    "texture": "4a98e167-c093-449c-be3e-8446c00d0120",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      903,
+      875
+    ],
+    "offset": [
+      -58.5,
+      71.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

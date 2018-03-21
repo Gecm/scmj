@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "play_scene_5",
+    "texture": "853fe00d-fb78-46f0-89f2-2c7cf594a9da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      35
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      114,
+      36
+    ]
+  }
+}

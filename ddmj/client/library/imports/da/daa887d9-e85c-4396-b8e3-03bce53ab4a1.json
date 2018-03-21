@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "chat.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "chat_bg": {
+      "__uuid__": "0127a5c8-3692-46f9-8bfb-ab869d931ca3"
+    },
+    "chat_btn_normal": {
+      "__uuid__": "54981393-3c96-41e0-8694-b871cf7564d9"
+    },
+    "chat_btn_select": {
+      "__uuid__": "87b90ce4-92f1-4888-ad52-77f4164d6af0"
+    },
+    "chat_btn_send": {
+      "__uuid__": "7edc1f0f-2db2-45ba-8d93-2215736b67e5"
+    },
+    "chat_input_bg": {
+      "__uuid__": "0a0a734f-3633-4b7e-8480-e01c52cb9b6f"
+    },
+    "chat_list_line": {
+      "__uuid__": "42d1a30b-c8ec-40b2-a673-12f6440ad588"
+    },
+    "chat_text_normal": {
+      "__uuid__": "0c503f66-4348-4934-9ced-33b9e5b76e72"
+    },
+    "chat_text_select": {
+      "__uuid__": "6756aeaf-a941-47e1-b050-40340620e637"
+    },
+    "emoji_btn_normal": {
+      "__uuid__": "60a385cf-e2f4-49ae-b1d0-071e77ded151"
+    },
+    "emoji_btn_select": {
+      "__uuid__": "af984eb9-3ddc-4c57-aacd-82887f7a19ee"
+    },
+    "emoji_text_normal": {
+      "__uuid__": "0fa4979d-58c8-40d4-b4d7-b40a2b24fae1"
+    },
+    "emoji_text_select": {
+      "__uuid__": "48b4c355-d155-4d8f-8e2e-a25ac45dbefe"
+    }
+  }
+}

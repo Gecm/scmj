@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pai_bottom",
+    "texture": "7aafcc6e-6f21-4c99-82b7-52dd5c529bbc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      101
+    ]
+  }
+}

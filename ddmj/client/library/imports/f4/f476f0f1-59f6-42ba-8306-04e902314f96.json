@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paohu_12",
+    "texture": "71dca088-fb5e-4e3f-ad20-2a325577865b",
+    "atlas": "",
+    "rect": [
+      2,
+      10,
+      484,
+      170
+    ],
+    "offset": [
+      -6,
+      -5
+    ],
+    "originalSize": [
+      500,
+      180
+    ]
+  }
+}

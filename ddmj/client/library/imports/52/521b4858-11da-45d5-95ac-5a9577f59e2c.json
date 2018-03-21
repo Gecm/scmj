@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_power",
+    "texture": "7aa67722-5e92-4a79-b123-0c1e485229a4",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      56,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      31
+    ]
+  }
+}

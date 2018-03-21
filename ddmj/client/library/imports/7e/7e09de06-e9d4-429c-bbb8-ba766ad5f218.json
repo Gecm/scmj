@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gang_7",
+    "texture": "218d816b-969d-49ea-820e-93311fe9737f",
+    "atlas": "",
+    "rect": [
+      2,
+      19,
+      484,
+      159
+    ],
+    "offset": [
+      -6,
+      -8.5
+    ],
+    "originalSize": [
+      500,
+      180
+    ]
+  }
+}

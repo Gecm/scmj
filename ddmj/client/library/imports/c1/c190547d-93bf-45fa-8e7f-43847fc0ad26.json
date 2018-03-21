@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yyDialog",
+    "texture": "7b06d436-bd43-425d-9e01-87153cb302e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      58
+    ]
+  }
+}

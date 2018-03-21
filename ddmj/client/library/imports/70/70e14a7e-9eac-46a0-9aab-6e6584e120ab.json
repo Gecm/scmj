@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiaojiaobiao",
+    "texture": "453df665-6bdf-4990-a57e-4dd754766c93",
+    "atlas": "8aa59a77-ca7f-41f2-8ff5-0978bd1fe4e8",
+    "rect": [
+      82,
+      83,
+      38,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      38
+    ]
+  }
+}

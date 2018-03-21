@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_text_select",
+    "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+    "atlas": "daa887d9-e85c-4396-b8e3-03bce53ab4a1",
+    "rect": [
+      592,
+      270,
+      114,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      43
+    ]
+  }
+}

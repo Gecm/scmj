@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_normol",
+    "texture": "1c41d745-c430-43f1-a4eb-7041f9084524",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      399,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      399,
+      57
+    ]
+  }
+}

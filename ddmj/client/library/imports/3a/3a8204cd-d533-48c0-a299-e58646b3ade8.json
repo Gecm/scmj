@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zimo8",
+    "texture": "a80a5a84-8102-4357-962b-fed5ce7cb469",
+    "atlas": "",
+    "rect": [
+      128,
+      8,
+      245,
+      164
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      500,
+      180
+    ]
+  }
+}

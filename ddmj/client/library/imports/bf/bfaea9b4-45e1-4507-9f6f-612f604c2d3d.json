@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peng_13",
+    "texture": "c2df126d-920f-4690-a1e1-4c871307b7bf",
+    "atlas": "",
+    "rect": [
+      2,
+      14,
+      484,
+      164
+    ],
+    "offset": [
+      -6,
+      -6
+    ],
+    "originalSize": [
+      500,
+      180
+    ]
+  }
+}

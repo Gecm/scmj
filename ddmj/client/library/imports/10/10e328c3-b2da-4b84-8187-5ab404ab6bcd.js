@@ -1,0 +1,59 @@
+"use strict";
+cc._RF.push(module, '10e32jDstpLhIGHWrQEq2vN', 'WaitingConnection');
+// scripts/components/WaitingConnection.js
+
+"use strict";
+
+cc.Class({
+    extends: cc.Component,
+    properties: {
+        target: cc.Node,
+        // foo: {
+        //    default: null,
+        //    url: cc.Texture2D,  // optional, default is typeof default
+        //    serializable: true, // optional, default is true
+        //    visible: true,      // optional, default is true
+        //    displayName: 'Foo', // optional
+        //    readonly: false,    // optional, default is false
+        // },
+        // ...
+        _isShow: false,
+        lblContent: cc.Label
+    },
+
+    // use this for initialization
+    onLoad: function onLoad() {
+        if (cc.vv == null) {
+            return null;
+        }
+
+        cc.vv.wc = this;
+        this.node.active = this._isShow;
+    },
+
+    // called every frame, uncomment this function to activate update callback
+    update: function update(dt) {
+        this.target.rotation = this.target.rotation - dt * 45;
+    },
+
+    show: function show(content) {
+        this._isShow = true;
+        if (this.node) {
+            this.node.active = this._isShow;
+        }
+        if (this.lblContent) {
+            if (content == null) {
+                content = "";
+            }
+            this.lblContent.string = content;
+        }
+    },
+    hide: function hide() {
+        this._isShow = false;
+        if (this.node) {
+            this.node.active = this._isShow;
+        }
+    }
+});
+
+cc._RF.pop();

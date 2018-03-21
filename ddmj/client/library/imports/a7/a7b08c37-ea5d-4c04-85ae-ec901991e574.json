@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sichuan_zhuang",
+    "texture": "a3289e63-c09e-4a4c-ad6f-22910a14a40e",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      36,
+      36
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      36,
+      37
+    ]
+  }
+}

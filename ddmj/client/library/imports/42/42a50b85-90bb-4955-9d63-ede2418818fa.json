@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fangkaxiaobeijing",
+    "texture": "2d0478bd-d02e-408c-9a07-f743376ebdcf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      45
+    ],
+    "capInsets": [
+      50,
+      15,
+      50,
+      15
+    ]
+  }
+}

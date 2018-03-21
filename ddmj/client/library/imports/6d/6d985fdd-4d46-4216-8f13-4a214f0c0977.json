@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hist_rec_bg",
+    "texture": "74d44adb-7b0a-4799-95a2-1812ba98e8cf",
+    "atlas": "35246e42-2c3d-44d1-b9f1-9dd63d38e6ea",
+    "rect": [
+      1889,
+      2,
+      139,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      129
+    ],
+    "rotated": 1
+  }
+}

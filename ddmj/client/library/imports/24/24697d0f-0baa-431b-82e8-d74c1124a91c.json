@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "replayBtn.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "replayExit": {
+      "__uuid__": "5a4b139c-cf52-4e01-b03c-eea87102060a"
+    },
+    "replayFast": {
+      "__uuid__": "ca63a0ab-a2bd-4ec1-8ec3-a72e34ed2499"
+    },
+    "replayPause": {
+      "__uuid__": "4b48cbcd-ecdf-418a-83d1-a109e527bcf1"
+    },
+    "replayPlay": {
+      "__uuid__": "926fad4d-58f9-4703-9298-300293e852cc"
+    },
+    "replayRewind": {
+      "__uuid__": "6fbdf7d9-eeba-4a7d-b7b4-bba89d411657"
+    }
+  }
+}
